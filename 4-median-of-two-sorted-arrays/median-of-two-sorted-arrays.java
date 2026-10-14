@@ -30,6 +30,6 @@ class Solution {
             }
         }
 
-        return 0.0; // unreachable for valid input
+        return 0.0; 
     }
 }
